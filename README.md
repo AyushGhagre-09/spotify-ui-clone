@@ -25,7 +25,7 @@ Designed to replicate Spotify’s layout, colors, and responsiveness without usi
 
 _Add screenshots of your project here:_
 
-![Screenshot](screenshot.png)
+![Screenshot](/assests/screenshot.png)
 
 ---
 
